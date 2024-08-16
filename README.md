@@ -28,7 +28,13 @@
 
 <h2 id="started">📌 About</h2>
 
-Simple description of what your project do or how to use it.
+O GitHub Finder é uma aplicação web projetada para ajudar os usuários a pesquisar perfis no GitHub e visualizar seus principais repositórios. Com esta ferramenta, você pode facilmente encontrar usuários, explorar seus repositórios mais populares e obter uma visão geral das suas contribuições.
+
+Funcionalidades Principais
+- Busca de Usuários: Permite buscar por usuários no GitHub através de um campo de pesquisa.
+- Perfil do Usuário: Exibe informações básicas do perfil do usuário, incluindo nome, bio, localização, foto de perfil e número de seguidores.
+Repositórios Principais: Mostra os repositórios mais relevantes do usuário, com detalhes como nome, número de estrelas e forks.
+- Interface Intuitiva: Design amigável e fácil de usar para uma experiência de pesquisa eficiente.
 
 [![project][PROJECT__BADGE]][PROJECT__URL]
 
@@ -40,8 +46,7 @@ Here you describe how to run your project locally
 
 Here you list all prerequisites necessary for running your project. For example:
 
-- [NodeJS](https://github.com/)
-- [Git 2](https://github.com)
+- [NodeJS](https://nodejs.org/)
 
 <h3>Cloning</h3>
 
@@ -56,8 +61,8 @@ git clone https://github.com/Kio-Suzuki/github-finder.git
 How to start your project
 
 ```bash
-cd project-name
-npm some-command-to-run
+npm install
+npm run dev
 ```
 
 <h2 id="routes">📍 Application Routes</h2>
@@ -66,9 +71,8 @@ Here you can list the main routes of your API, and what are their expected reque
 ​
 | route               | description                                          
 |----------------------|-----------------------------------------------------
-| <kbd>/authenticate</kbd>     | page that list all user info
-| <kbd>/login</kbd>     | page to login
-| <kbd>/dashboard</kbd>     | page that contains all user shopping and spences info
+| <kbd>/</kbd>     | Página inicial que exibe informações sobre os usuários pesquisados
+| <kbd>/repos/:username</kbd>     | Página que mostra os principais repositórios do usuário especificado por :username no GitHub.
 
 <h2 id="colab">🤝 Author</h2>
 
