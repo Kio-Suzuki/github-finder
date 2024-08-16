@@ -10,9 +10,6 @@
 <h1 align="center" style="font-weight: bold;">GitHub Finder 💻</h1>
 
 ![react][REACT__BADGE]
-![gatsby][GATSBY__BADGE]
-![angular][ANGULAR__BADGE]
-![vue][VUE__BADGE]
 ![typescript][TYPESCRIPT__BADGE]
 ![javascript][JAVASCRIPT__BADGE]
 
@@ -26,7 +23,8 @@
 
 
 <p align="center">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
+   <img src="https://github.com/Kio-Suzuki/github-finder/blob/main/assets/home.png?raw=true" alt="Image Example" width="400px">
+   <img src="https://github.com/Kio-Suzuki/github-finder/blob/main/assets/home.png?raw=true" alt="Image Example" width="400px">
 </p>
 
 <h2 id="started">📌 About</h2>
