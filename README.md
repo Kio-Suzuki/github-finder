@@ -76,8 +76,6 @@ Here you can list the main routes of your API, and what are their expected reque
 
 <h2 id="colab">🤝 Author</h2>
 
-Special thank you for all people that contributed for this project.
-
 <table>
   <tr>
      <td align="center">
