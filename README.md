@@ -24,7 +24,7 @@
 
 <p align="center">
    <img src="https://github.com/Kio-Suzuki/github-finder/blob/main/assets/home.png?raw=true" alt="Image Example" width="400px">
-   <img src="https://github.com/Kio-Suzuki/github-finder/blob/main/assets/home.png?raw=true" alt="Image Example" width="400px">
+   <img src="https://github.com/Kio-Suzuki/github-finder/blob/main/assets/repos.png?raw=true" alt="Image Example" width="400px">
 </p>
 
 <h2 id="started">📌 About</h2>
