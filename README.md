@@ -5,7 +5,7 @@
 [GATSBY__BADGE]: https://img.shields.io/badge/Gatsby-7026b9?style=for-the-badge&logo=gatsby
 [ANGULAR__BADGE]: https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular
 [PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
-[PROJECT__URL]: https://github.com/Fernanda-Kipper/Readme-Templates
+[PROJECT__URL]: https://github.com/Kio-Suzuki/github-finder
 
 <h1 align="center" style="font-weight: bold;">GitHub Finder 💻</h1>
 
@@ -20,7 +20,6 @@
   <a href="#colab">Collaborators</a> •
  <a href="#contribute">Contribute</a>
 </p>
-
 
 <p align="center">
    <img src="https://github.com/Kio-Suzuki/github-finder/blob/main/assets/home.png?raw=true" alt="Image Example" width="400px">
@@ -49,7 +48,7 @@ Here you list all prerequisites necessary for running your project. For example:
 How to clone your project
 
 ```bash
-git clone your-project-url-in-github
+git clone https://github.com/Kio-Suzuki/github-finder.git
 ```
 
 <h3>Starting</h3>
