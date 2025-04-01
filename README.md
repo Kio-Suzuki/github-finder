@@ -13,7 +13,7 @@
 <p align="center">
  <a href="#about">About</a> • 
  <a href="#started">Getting Started</a> • 
-  <a href="#started">App Routes</a> • 
+  <a href="#routes">App Routes</a> • 
   <a href="#colab">Author</a> •
  <a href="#contribute">Contribute</a>
 </p>
@@ -23,7 +23,7 @@
    <img src="https://github.com/Kio-Suzuki/github-finder/blob/main/assets/repos.png?raw=true" alt="Image Example" width="400px">
 </p>
 
-<h2 id="started">📌 About</h2>
+<h2 id="about">📌 About</h2>
 
 O GitHub Finder é uma aplicação web projetada para ajudar os usuários a pesquisar perfis no GitHub e visualizar seus principais repositórios. Com esta ferramenta, você pode facilmente encontrar usuários, explorar seus repositórios mais populares e obter uma visão geral das suas contribuições.
 
@@ -62,7 +62,7 @@ npm install
 npm run dev
 ```
 
-<h2 id="routes">📍 Application Routes</h2>
+<h2 id="routes">📍 Application Pages</h2>
 
 Here you can list the main routes of your API, and what are their expected request bodies.
 ​
@@ -87,8 +87,6 @@ Here you can list the main routes of your API, and what are their expected reque
 </table>
 
 <h2 id="contribute">📫 Contribute</h2>
-
-Here you will explain how other developers can contribute to your project. For example, explaining how can create their branches, which patterns to follow and how to open an pull request
 
 1. `git clone https://github.com/Kio-Suzuki/github-finder.git`
 2. `git checkout -b feature/NAME`
