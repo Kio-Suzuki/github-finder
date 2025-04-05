@@ -2,7 +2,7 @@
 [REACT__BADGE]: https://img.shields.io/badge/React-005CFE?style=for-the-badge&logo=react
 [NodeJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
-[PROJECT__URL]: https://github.com/Kio-Suzuki/github-finder
+[PROJECT__URL]: https://github-finder-inky-beta.vercel.app/
 
 <h1 align="center" style="font-weight: bold;">GitHub Finder 💻</h1>
 
